@@ -1,1 +1,16 @@
 karp's 21 NP-hard problems
+
+# 1
+0-1 integer programming(0-1线性规划)
+
+description:
+线性规划，所有系数都是整数，所有变量取值非0即1.
+
+algorithms:
+用普通线性规划的方法做，得到的答案取整。这种算法得到结果不一定是最优的，甚至不一定是可行解。
+
+# 2
+maximum clique(最大团问题)
+
+description:
+在图中找一个子图，这个子图要是一个完全图。
