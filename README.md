@@ -1,5 +1,4 @@
 # algorithm-note
-==============
 
 ### 写一个漂亮的readme
 
@@ -8,4 +7,8 @@
 ```
 hello world!
 ```
+
+图片也不能少
+
+![]()
 A note on algorithms
