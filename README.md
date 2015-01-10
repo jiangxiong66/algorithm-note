@@ -10,5 +10,5 @@ hello world!
 
 图片也不能少
 
-![]()
+![./icpc.png]()
 A note on algorithms
