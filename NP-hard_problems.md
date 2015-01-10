@@ -15,8 +15,7 @@ description：
 reference:
 《Algorithms For Cut Problems On Trees》
 
-# 003
-Problem: steiner tree(斯坦纳树)
+# Problem: steiner tree(斯坦纳树)
 
 description:
 给一个无向图和一个点集S，做一棵包含S的生成树，使其cost最小。
