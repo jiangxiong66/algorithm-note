@@ -1,4 +1,4 @@
-# Problem: Multicut on Trees
+# 1. Multicut on Trees
 
 ## description：
 给定一颗树T和一个点对集合R={(u1,v1)...(ur,vr)}，删除k条边使得所有点对不连通（砍断所有路径）
@@ -7,7 +7,7 @@ reference：
 《Algorithms For Cut Problems On Trees》
 
 
-# Problem: Multiway cut on Trees
+# 2. Multiway cut on Trees
 
 ## description：
 给定一颗树T和一个点集S={v1...vs}，删除k条边使得所有点对（vi,vj）之间没有通路（不连通，或曰砍断所有路径）
@@ -15,7 +15,7 @@ reference：
 reference:
 《Algorithms For Cut Problems On Trees》
 
-# Problem: steiner tree(斯坦纳树)
+# 3. steiner tree(斯坦纳树)
 
 ## description:
 给一个无向图和一个点集S，做一棵包含S的生成树，使其cost最小。
